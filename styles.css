@@ -1,0 +1,300 @@
+body {
+    text-align: center;
+    background-color: #283149;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+}
+
+.set {
+    margin: 10.65% auto;
+}
+
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
+.red {
+    color: red;
+}
+
+.drum {
+    outline: none;
+    border: 1px solid #404B69;
+    font-size: 1rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 700;
+    color: #000;
+    text-shadow: 1px 0 #DBEDF3;
+    border-radius: 3px;
+    display: inline-block;
+    width: 1.601%;
+    height: 200px;
+    padding-left: 0;
+    padding-top: 12.5%;
+    padding-bottom: 0;
+    padding-right: 0;
+    text-align: center;
+    margin: 0;
+    background-color: white;
+    bottom: 0;
+}
+
+.black {
+    outline: none;
+    border: 1px solid #404B69;
+    font-size: 1rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 1px 0 gray;
+    border-radius: 3px;
+    display: inline-block;
+    width: 1.3%;
+    height: 24%;
+    padding-left: 0;
+    padding-top: 8%;
+    padding-right: 0;
+    text-align: center;
+    margin: 0;
+    background-color: #000;
+    bottom: 0;
+}
+
+.A0 {
+    position: absolute;
+    top: 46.5%;
+    left: 2%;
+}
+
+.C1 {
+    position: absolute;
+    top: 46.5%;
+    left: 5.7%;
+}
+
+.D1 {
+    position: absolute;
+    top: 46.5%;
+    left: 7.7%;
+}
+
+.F1 {
+    position: absolute;
+    top: 46.5%;
+    left: 11.4%;
+}
+
+.G1 {
+    position: absolute;
+    top: 46.5%;
+    left: 13.2%;
+}
+
+.A1 {
+    position: absolute;
+    top: 46.5%;
+    left: 15.2%;
+}
+
+.C2 {
+    position: absolute;
+    top: 46.5%;
+    left: 19%;
+}
+
+.D2 {
+    position: absolute;
+    top: 46.5%;
+    left: 20.9%;
+}
+
+.F2 {
+    position: absolute;
+    top: 46.5%;
+    left: 24.6%;
+}
+
+.G2 {
+    position: absolute;
+    top: 46.5%;
+    left: 26.5%;
+}
+
+.A2 {
+    position: absolute;
+    top: 46.5%;
+    left: 28.4%;
+}
+
+.C3 {
+    position: absolute;
+    top: 46.5%;
+    left: 32.2%;
+}
+
+.D3 {
+    position: absolute;
+    top: 46.5%;
+    left: 34.2%;
+}
+
+.F3 {
+    position: absolute;
+    top: 46.5%;
+    left: 38%;
+}
+
+.G3 {
+    position: absolute;
+    top: 46.5%;
+    left: 39.9%;
+}
+
+.A3 {
+    position: absolute;
+    top: 46.5%;
+    left: 41.8%;
+}
+
+.C4 {
+    position: absolute;
+    top: 46.5%;
+    left: 45.5%;
+}
+
+.D4 {
+    position: absolute;
+    top: 46.5%;
+    left: 47.5%;
+}
+
+.F4 {
+    position: absolute;
+    top: 46.5%;
+    left: 51.2%;
+}
+
+.G4 {
+    position: absolute;
+    top: 46.5%;
+    left: 53.2%;
+}
+
+.A4 {
+    position: absolute;
+    top: 46.5%;
+    left: 55.1%;
+}
+
+.C5 {
+    position: absolute;
+    top: 46.5%;
+    left: 58.8%;
+}
+
+.D5 {
+    position: absolute;
+    top: 46.5%;
+    left: 60.8%;
+}
+
+.F5 {
+    position: absolute;
+    top: 46.5%;
+    left: 64.5%;
+}
+
+.G5 {
+    position: absolute;
+    top: 46.5%;
+    left: 66.4%;
+}
+
+.A5 {
+    position: absolute;
+    top: 46.5%;
+    left: 68.3%;
+}
+
+.C6 {
+    position: absolute;
+    top: 46.5%;
+    left: 72.1%;
+}
+
+.D6 {
+    position: absolute;
+    top: 46.5%;
+    left: 74.1%;
+}
+
+.F6 {
+    position: absolute;
+    top: 46.5%;
+    left: 77.8%;
+}
+
+.G6 {
+    position: absolute;
+    top: 46.5%;
+    left: 79.8%;
+}
+
+.A6 {
+    position: absolute;
+    top: 46.5%;
+    left: 81.7%;
+}
+
+.C7 {
+    position: absolute;
+    top: 46.5%;
+    left: 85.4%;
+}
+
+.D7 {
+    position: absolute;
+    top: 46.5%;
+    left: 87.3%;
+}
+
+.F7 {
+    position: absolute;
+    top: 46.5%;
+    left: 91%;
+}
+
+.G7 {
+    position: absolute;
+    top: 46.5%;
+    left: 92.9%;
+}
+
+.A7 {
+    position: absolute;
+    top: 46.5%;
+    left: 94.9%;
+}
+
+.press {
+    background-color: gray;
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+}
